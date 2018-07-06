@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: Thanks
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Thank you for applying to one of our partner company's listings. One of their HR reps will be in contact with you shortly if they determine there is a good fit.
