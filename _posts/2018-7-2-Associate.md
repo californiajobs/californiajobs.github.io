@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harbor Freight Tools, Orange CA.: Associate Logistics 
+title: Harbor Freight Tools Orange CA Associate Logistics 
 ---
 
 Our Associates (part-time) support the leadership team through operational execution and delivery of a rewarding customer experience.
